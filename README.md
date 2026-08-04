@@ -110,8 +110,8 @@ Problems are solved from:
 
 | Topic | Status |
 |--------|--------|
-| Arrays | ⏳ |
-| Strings | ⏳ |
+| Arrays | ✅ |
+| Strings | ✅ |
 | Hashing | ⏳ |
 | Two Pointers | ⏳ |
 | Sliding Window | ⏳ |
