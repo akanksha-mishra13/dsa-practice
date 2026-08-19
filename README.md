@@ -113,7 +113,7 @@ Problems are solved from:
 | Arrays | ✅ |
 | Strings | ✅ |
 | Hashing | ⏳ |
-| Two Pointers | ⏳ |
+| Two Pointers | ✅ |
 | Sliding Window | ✅ |
 | Binary Search | ⏳ |
 | Linked List | ⏳ |
@@ -128,7 +128,7 @@ Problems are solved from:
 | Backtracking | ⏳ |
 | Dynamic Programming | ⏳ |
 | Bit Manipulation | ⏳ |
-| Math | ⏳ |
+| Math | ✅ |
 
 ---
 
