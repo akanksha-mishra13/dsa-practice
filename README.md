@@ -6,7 +6,6 @@
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Problems](https://img.shields.io/badge/Problems-Solving-blue?style=for-the-badge)
 
-
 ---
 
 ## 🎯 About
