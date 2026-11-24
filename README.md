@@ -114,7 +114,7 @@ Problems are solved from:
 | Hashing | ⏳ |
 | Two Pointers | ✅ |
 | Sliding Window | ✅ |
-| Binary Search | ⏳ |
+| Binary Search | ✅ |
 | Linked List | ⏳ |
 | Stack | ⏳ |
 | Queue | ⏳ |
